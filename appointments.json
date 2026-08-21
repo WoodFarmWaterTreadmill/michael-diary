@@ -1,8 +1,7 @@
 {
   "therapist": "Michael",
-  "updated": "2026-08-18",
+  "updated": "2026-08-21",
   "appointments": [
-    {"date":"2026-08-18","time":"16:30","horse":"Alfie","owner":"William Swan","sessionType":"1 of 6"},
     {"date":"2026-08-22","time":"10:30","horse":"Jack","owner":"Christine Ayres","sessionType":"3 of 3"},
     {"date":"2026-08-22","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"1 of 10"},
     {"date":"2026-08-22","time":"11:30","horse":"Smartie","owner":"Izzy Robertson","sessionType":"2 of 6"},
