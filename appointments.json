@@ -1,6 +1,6 @@
 {
   "therapist": "Michael",
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "appointments": [
     {"date":"2026-08-29","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"3 of 10"},
     {"date":"2026-08-29","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"2 of 3"},
@@ -18,8 +18,8 @@
     {"date":"2026-09-12","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"3 of 3"},
     {"date":"2026-09-12","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"3 of 10"},
     {"date":"2026-09-12","time":"11:30","horse":"Smartie","owner":"Izzy Robertson","sessionType":"5 of 6"},
-    {"date":"2026-09-14","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"8 of 10"},
-    {"date":"2026-09-14","time":"14:30","horse":"Beauty","owner":"Kimberley Little","sessionType":"9 of 10"},
+    {"date":"2026-09-16","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"8 of 10"},
+    {"date":"2026-09-16","time":"14:30","horse":"Beauty","owner":"Kimberley Little","sessionType":"9 of 10"},
     {"date":"2026-09-19","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"4 of 10"},
     {"date":"2026-09-26","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"5 of 10"},
     {"date":"2026-10-03","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"6 of 10"},
