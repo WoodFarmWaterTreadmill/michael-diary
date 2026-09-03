@@ -4,6 +4,7 @@
   "appointments": [
     {"date":"2026-09-06","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"5 of 10"},
     {"date":"2026-09-06","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"6 of 10"},
+    {"date":"2026-09-06","time":"11:00","horse":"Sixties","owner":"Victoria Willcox","sessionType":""},
     {"date":"2026-09-07","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"6 of 10"},
     {"date":"2026-09-07","time":"14:30","horse":"Beauty","owner":"Kimberley Little","sessionType":"7 of 10"},
     {"date":"2026-09-12","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"5 of 10"},
