@@ -1,7 +1,8 @@
 {
   "therapist": "Michael",
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "appointments": [
+    {"date":"2026-09-11","time":"11:00","horse":"Jerry","owner":"Megan Kirk","sessionType":"1 of 1"},
     {"date":"2026-09-12","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"5 of 10"},
     {"date":"2026-09-12","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"3 of 3"},
     {"date":"2026-09-12","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"2 of 10"},
