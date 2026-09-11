@@ -3,6 +3,8 @@
   "updated": "2026-09-11",
   "appointments": [
     {"date":"2026-09-12","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"5 of 10"},
+    {"date":"2026-09-12","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"3 of 3"},
+    {"date":"2026-09-12","time":"11:30","horse":"Smartie","owner":"Izzy Robertson","sessionType":"5 of 6"},
     {"date":"2026-09-12","time":"14:00","horse":"Jino","owner":"Emma Davies","sessionType":"Trial £25"},
     {"date":"2026-09-12","time":"14:30","horse":"Lady","owner":"Emma Davies","sessionType":"Trial £25"},
     {"date":"2026-09-16","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"8 of 10"},
@@ -10,12 +12,16 @@
     {"date":"2026-09-16","time":"15:00","horse":"Toby","owner":"Jo Young","sessionType":"5 of 10"},
     {"date":"2026-09-19","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"7 of 10"},
     {"date":"2026-09-19","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"8 of 10"},
+    {"date":"2026-09-19","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"2 of 10"},
     {"date":"2026-09-19","time":"11:30","horse":"Toby","owner":"Jo Young","sessionType":"6 of 10"},
     {"date":"2026-09-26","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"3 of 10"},
     {"date":"2026-09-27","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"9 of 10"},
     {"date":"2026-09-27","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"10 of 10"},
     {"date":"2026-10-03","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":""},
     {"date":"2026-10-03","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":""},
+    {"date":"2026-10-03","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"4 of 10"},
+    {"date":"2026-10-10","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"5 of 10"},
+    {"date":"2026-10-17","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"6 of 10"},
     {"date":"2026-10-24","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"7 of 10"}
   ]
 }
