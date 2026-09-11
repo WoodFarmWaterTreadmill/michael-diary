@@ -4,7 +4,7 @@
   "appointments": [
     {"date":"2026-09-12","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"5 of 10"},
     {"date":"2026-09-12","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"3 of 3"},
-    {"date":"2026-09-12","time":"11:30","horse":"Smartie","owner":"Izzy Robertson","sessionType":"5 of 6"},
+    {"date":"2026-09-12","time":"11:00","horse":"Smartie","owner":"Izzy Robertson","sessionType":"5 of 6"},
     {"date":"2026-09-12","time":"14:00","horse":"Jino","owner":"Emma Davies","sessionType":"Trial £25"},
     {"date":"2026-09-12","time":"14:30","horse":"Lady","owner":"Emma Davies","sessionType":"Trial £25"},
     {"date":"2026-09-16","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"8 of 10"},
