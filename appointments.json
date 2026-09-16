@@ -16,7 +16,8 @@
     {"date":"2026-10-17","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"2 of 6"},
     {"date":"2026-10-17","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"6 of 10"},
     {"date":"2026-10-24","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"7 of 10"},
-    {"date":"2026-10-31","time":"10:30","horse":"Asbo","owner":"Forrester","sessionType":"3 of 6"},
+    {"date":"2026-10-31","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"3 of 6"},
+    {"date":"2026-11-14","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"4 of 6"},
     {"date":"2026-11-28","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"5 of 6"},
     {"date":"2026-12-12","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"6 of 6"}
   ]
