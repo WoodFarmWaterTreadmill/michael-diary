@@ -1,6 +1,6 @@
 {
   "therapist": "Michael",
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "appointments": [
     {"date":"2026-09-16","time":"13:30","horse":"Mango","owner":"Sammie Steele","sessionType":"4 of 10"},
     {"date":"2026-09-16","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"8 of 10"},
@@ -10,6 +10,7 @@
     {"date":"2026-09-19","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"7 of 10"},
     {"date":"2026-09-19","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"8 of 10"},
     {"date":"2026-09-19","time":"11:00","horse":"Toby","owner":"Jo Young","sessionType":"6 of 10"},
+    {"date":"2026-09-19","time":"14:00","horse":"Jino","owner":"Emma Davies","sessionType":"1 of 10"},
     {"date":"2026-09-19","time":"14:30","horse":"Lady","owner":"Emma Davies","sessionType":"1 of 10"},
     {"date":"2026-09-21","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"6 of 10"},
     {"date":"2026-09-27","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"9 of 10"},
@@ -17,7 +18,9 @@
     {"date":"2026-10-03","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":""},
     {"date":"2026-10-03","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":""},
     {"date":"2026-10-10","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"5 of 10"},
+    {"date":"2026-10-17","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"2 of 6"},
     {"date":"2026-10-17","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"6 of 10"},
-    {"date":"2026-10-24","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"7 of 10"}
+    {"date":"2026-10-24","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":"7 of 10"},
+    {"date":"2026-10-31","time":"10:30","horse":"Asbo","owner":"Forrester","sessionType":"3 of 6"}
   ]
 }
