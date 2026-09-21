@@ -1,10 +1,9 @@
 {
   "therapist": "Michael",
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "appointments": [
-    {"date":"2026-09-21","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"7 of 10"},
     {"date":"2026-09-21","time":"14:00","horse":"Itsaloma","owner":"Kimberley Little","sessionType":"1 of 1"},
-    {"date":"2026-09-21","time":"14:00","horse":"Persina","owner":"Kimberley Little","sessionType":"10 of 10"},
+    {"date":"2026-09-21","time":"14:30","horse":"Persina","owner":"Kimberley Little","sessionType":"10 of 10"},
     {"date":"2026-09-27","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"9 of 10"},
     {"date":"2026-09-27","time":"10:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"10 of 10"},
     {"date":"2026-10-03","time":"10:00","horse":"Pat","owner":"Gemma Bruce","sessionType":""},
