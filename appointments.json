@@ -1,8 +1,7 @@
 {
   "therapist": "Michael",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "appointments": [
-    {"date":"2026-09-24","time":"15:00","horse":"Mango","owner":"Sammie Steele","sessionType":"6 of 10"},
     {"date":"2026-09-25","time":"10:00","horse":"Quin","owner":"Sarah Osborne","sessionType":"8 of 10"},
     {"date":"2026-09-25","time":"10:30","horse":"Magners","owner":"Megan Kirk","sessionType":"4 of 6"},
     {"date":"2026-09-27","time":"08:30","horse":"Mango","owner":"Sammie Steele","sessionType":"7 of 10"},
@@ -19,6 +18,7 @@
     {"date":"2026-10-07","time":"07:30","horse":"Rasputin","owner":"Liz Royou-Compton","sessionType":"1 of 3"},
     {"date":"2026-10-10","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":""},
     {"date":"2026-10-13","time":"07:30","horse":"Rasputin","owner":"Liz Royou-Compton","sessionType":"2 of 3"},
+    {"date":"2026-10-17","time":"10:00","horse":"Smartie","owner":"Izzy Robertson","sessionType":"6 of 6"},
     {"date":"2026-10-17","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"2 of 6"},
     {"date":"2026-10-17","time":"11:00","horse":"Cheeky","owner":"Maddie Young","sessionType":""},
     {"date":"2026-10-19","time":"07:30","horse":"Rasputin","owner":"Liz Royou-Compton","sessionType":"3 of 3"},
