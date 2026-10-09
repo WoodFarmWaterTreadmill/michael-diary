@@ -1,14 +1,14 @@
 {
   "therapist": "Michael",
-  "updated": "2026-10-06",
+  "updated": "2026-10-09",
   "appointments": [
-    {"date":"2026-10-07","time":"09:30","horse":"Mango","owner":"Sammie Steele","sessionType":"9 of 10"},
     {"date":"2026-10-09","time":"17:00","horse":"Mango","owner":"Sammie Steele","sessionType":"1 of 10"},
     {"date":"2026-10-10","time":"10:30","horse":"Quin","owner":"Sarah Osborne","sessionType":"1 of 10"},
     {"date":"2026-10-13","time":"16:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"1 of 10"},
     {"date":"2026-10-13","time":"16:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"2 of 10"},
     {"date":"2026-10-17","time":"10:00","horse":"Smartie","owner":"Izzy Robertson","sessionType":"6 of 6"},
     {"date":"2026-10-17","time":"10:30","horse":"Asbo","owner":"Charlotte Forrester","sessionType":"2 of 6"},
+    {"date":"2026-10-19","time":"14:15","horse":"Horse","owner":"Amanda Skinner","sessionType":"Trial £25"},
     {"date":"2026-10-27","time":"07:00","horse":"Rasputin","owner":"Liz Royou Compton","sessionType":"1 of 3"},
     {"date":"2026-10-27","time":"16:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"3 of 10"},
     {"date":"2026-10-27","time":"16:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"4 of 10"},
