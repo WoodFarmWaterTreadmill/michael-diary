@@ -1,8 +1,17 @@
 {
   "therapist": "Michael",
-  "updated": "2026-11-10",
+  "updated": "2026-11-12",
   "appointments": [
     {"date":"2026-11-13","time":"14:00","horse":"Squeaky","owner":"Cath Van Randwyck","sessionType":"2 of 10"},
+    {"date":"2026-11-14","time":"09:30","horse":"Quin","owner":"Sarah Osborne","sessionType":"7 of 10"},
+    {"date":"2026-11-15","time":"11:00","horse":"Sixties","owner":"Victoria Willcox","sessionType":"1 of 1"},
+    {"date":"2026-11-17","time":"11:00","horse":"HORSE","owner":"CLIENT","sessionType":null},
+    {"date":"2026-11-17","time":"11:30","horse":"HORSE","owner":"CLIENT","sessionType":null},
+    {"date":"2026-11-17","time":"12:00","horse":"König","owner":"Liz Diegutis","sessionType":"4 of 6"},
+    {"date":"2026-11-17","time":"13:00","horse":"HORSE","owner":"CLIENT","sessionType":null},
+    {"date":"2026-11-17","time":"13:30","horse":"HORSE","owner":"CLIENT","sessionType":null},
+    {"date":"2026-11-17","time":"14:00","horse":"HORSE","owner":"CLIENT","sessionType":null},
+    {"date":"2026-11-17","time":"15:00","horse":"HORSE","owner":"CLIENT","sessionType":null},
     {"date":"2026-11-18","time":"08:00","horse":"Rasputin","owner":"Liz Royou Compton","sessionType":"3 of 3"},
     {"date":"2026-11-20","time":"14:00","horse":"Squeaky","owner":"Cath Van Randwyck","sessionType":"3 of 10"},
     {"date":"2026-11-24","time":"16:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"7 of 10"},
