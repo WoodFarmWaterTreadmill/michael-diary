@@ -1,6 +1,6 @@
 {
   "therapist": "Michael",
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "appointments": [
     {"date":"2026-11-13","time":"14:00","horse":"Squeaky","owner":"Cath Van Randwyck","sessionType":"2 of 10"},
     {"date":"2026-11-14","time":"09:30","horse":"Quin","owner":"Sarah Osborne","sessionType":"7 of 10"},
@@ -8,6 +8,7 @@
     {"date":"2026-11-17","time":"11:00","horse":"HORSE","owner":"Teri Smith","sessionType":"Trial £25"},
     {"date":"2026-11-17","time":"11:30","horse":"HORSE","owner":"Royale Equine ","sessionType":"Trial £25"},
     {"date":"2026-11-17","time":"12:00","horse":"König","owner":"Liz Diegutis","sessionType":"4 of 6"},
+    {"date":"2026-11-17","time":"12:30","horse":"Jeff","owner":"Kerry Dodimead","sessionType":"1 of 10"},
     {"date":"2026-11-17","time":"13:00","horse":"Maggie","owner":"Kerry Dodimead","sessionType":"2 of 10"},
     {"date":"2026-11-17","time":"13:30","horse":"Grace","owner":"Kerry Dodimead","sessionType":"3 of 10"},
     {"date":"2026-11-17","time":"14:00","horse":"Max","owner":"Kerry Dodimead","sessionType":"4 of 10"},
