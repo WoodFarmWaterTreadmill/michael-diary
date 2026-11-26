@@ -1,9 +1,7 @@
 {
   "therapist": "Michael",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "appointments": [
-    {"date":"2026-11-27","time":"14:00","horse":"Squeaky","owner":"Cath Van Randwyck","sessionType":"4 of 10"},
-    {"date":"2026-11-28","time":"14:30","horse":"Annaveigh Slew","owner":"Maisy Green","sessionType":"Trial £25.00"},
     {"date":"2026-12-01","time":"11:00","horse":"Uno","owner":"Teri Smith","sessionType":null},
     {"date":"2026-12-01","time":"11:30","horse":"Toucan","owner":"Royale Equine ","sessionType":null},
     {"date":"2026-12-01","time":"12:30","horse":"Jeff","owner":"Kerry Dodimead","sessionType":"4 of 10"},
@@ -13,8 +11,10 @@
     {"date":"2026-12-01","time":"15:00","horse":"Mouse","owner":"Lauren Turnbull","sessionType":"2 of 3"},
     {"date":"2026-12-08","time":"16:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"7 of 10"},
     {"date":"2026-12-08","time":"16:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"8 of 10"},
-    {"date":"2026-12-11","time":"14:00","horse":"Squeaky","owner":"Cath Van Randwyck","sessionType":"6 of 10"},
+    {"date":"2026-12-08","time":"17:00","horse":"Asbo ","owner":"Charlotte Forrester","sessionType":"2 of 6"},
+    {"date":"2026-12-11","time":"14:00","horse":"Squeaky","owner":"Cath Van Randwyck","sessionType":"5 of 10"},
     {"date":"2026-12-22","time":"16:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"9 of 10"},
-    {"date":"2026-12-22","time":"16:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"10 of 10"}
+    {"date":"2026-12-22","time":"16:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"10 of 10"},
+    {"date":"2026-12-22","time":"17:00","horse":"Asbo ","owner":"Charlotte Forrester","sessionType":"3 of 6"}
   ]
 }
