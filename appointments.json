@@ -1,6 +1,6 @@
 {
   "therapist": "Michael",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "appointments": [
     {"date":"2026-12-01","time":"11:00","horse":"Uno","owner":"Teri Smith","sessionType":null},
     {"date":"2026-12-01","time":"11:30","horse":"Toucan","owner":"Royale Equine ","sessionType":null},
@@ -9,6 +9,7 @@
     {"date":"2026-12-01","time":"13:30","horse":"Grace","owner":"Kerry Dodimead","sessionType":"6 of 10"},
     {"date":"2026-12-01","time":"14:00","horse":"Maggie","owner":"Kerry Dodimead","sessionType":"7 of 10"},
     {"date":"2026-12-01","time":"15:00","horse":"Mouse","owner":"Lauren Turnbull","sessionType":"2 of 3"},
+    {"date":"2026-12-08","time":"15:30","horse":"Eldorado","owner":"Lara Roberts","sessionType":"5 of 10"},
     {"date":"2026-12-08","time":"16:00","horse":"Pat","owner":"Gemma Bruce","sessionType":"7 of 10"},
     {"date":"2026-12-08","time":"16:30","horse":"Harry","owner":"Gemma Bruce","sessionType":"8 of 10"},
     {"date":"2026-12-08","time":"17:00","horse":"Asbo ","owner":"Charlotte Forrester","sessionType":"2 of 6"},
